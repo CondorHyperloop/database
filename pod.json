@@ -1,0 +1,51 @@
+{
+    "version": "",
+    "time": "",
+    "frenos": {
+        "state": "",
+        "pressure": "",
+        "temperature": ""
+    },
+    "motor": {
+        "state": "",
+        "temperature": "",
+        "rpm": ""
+    },
+    "batteries": {
+        "cells": "",
+        "empty": "",
+        "state": "",
+        "voltage": "",
+        "current": "",
+        "temperature": ""
+    },
+    "brakes": {
+        "state": "",
+        "temperature": "",
+        "pressure": ""
+    },
+    "pod": {
+        "pressure": "",
+        "speed": {
+            "lineal": "",
+            "x": "",
+            "y": "",
+            "z": ""
+        },
+        "acceleration": {
+            "lineal": "",
+            "x": "",
+            "y": "",
+            "z": ""
+        },
+        "state": "",
+        "distance": ""
+    },
+    "teensies": [
+        {
+            "state": "",
+            "latency": "",
+            "name": ""
+        }
+    ]
+}
